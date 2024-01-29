@@ -1,0 +1,29 @@
+body {
+    font-family: Bahnschrift, sans-serif;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    background-image:url("../img/background.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+}
+#itsfullmoon {
+    display: none;
+    font-size: 2em;
+    color: green;
+}
+#itsnotfullmoon {
+    font-size: 2em;
+    color: #c42f2f;
+}
+#moonPhaseInfo{
+    font-size: 1.5em;
+}
+#moonimg{
+    height: 300px;
+    width: 300px;
+}
+#fullmoonInfo{
+    margin: 80px;
+}
