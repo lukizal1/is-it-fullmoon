@@ -1,35 +1,35 @@
 # Is-it-fullmoon?
 
-## Überblick
+## Overview
 
-Is-it-fullmoon? ist eine Webanwendung, die die aktuelle Mondphase anzeigt. Sie verwendet die Moon-API.com, um Mondphasendaten abzurufen und bietet eine visuelle Darstellung der aktuellen Phase.
+Is-it-fullmoon? is a web application that displays the current moon phase. It uses the Moon-API.com to fetch moon phase data and provides a visual representation of the current phase.
 
-## Funktionen
+## Features
 
-- **Aktuelle Mondphase:** Die Website zeigt die derzeitige Mondphase an.
-- **Vollmond-Status:** Zeigt an, ob es aktuell Vollmond ist.
-- **Mondphaseninformationen:** Bietet Details zur aktuellen Mondphase, dem letzten Vollmond und dem nächsten Vollmond.
+- **Current Moon Phase:** The website displays the current moon phase.
+- **Full Moon Status:** Indicates whether it's currently a full moon.
+- **Moon Phase Information:** Provides details about the current moon phase, the last full moon, and the next full moon.
 
-## Verwendung
+## Usage
 
-1. Besuche die [Is-it-fullmoon? Webseite](https://dein-username.github.io/is-it-fullmoon).
-2. Erfahre, ob es aktuell Vollmond ist und erhalte Informationen zur Mondphase.
+1. Visit the [Is-it-fullmoon? website](https://lukizal1.github.io/is-it-fullmoon).
+2. Find out if it's currently a full moon and get information about the moon phase.
 
-## Technologien
+## Technologies
 
 - HTML
-- CSS (Bootstrap für das Design)
-- JavaScript (Fetch API für die API-Anfragen)
+- CSS (Bootstrap for styling)
+- JavaScript (Fetch API for API requests)
 
 ## Setup
 
-1. Klone das Repository: `git clone https://github.com/dein-username/is-it-fullmoon.git`
-2. Öffne die `index.html`-Datei in deinem Browser.
+1. Clone the repository: `git clone https://github.com/lukizal1/is-it-fullmoon.git`
+2. Open the `index.html` file in your browser.
 
-## Beitrag
+## Contribution
 
-Wenn du zu diesem Projekt beitragen möchtest, erstelle eine Fork des Repositories, mache deine Änderungen und erstelle einen Pull-Request.
+If you'd like to contribute to this project, fork the repository, make your changes, and create a pull request.
 
-## Lizenz
+## License
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE](LICENSE) Datei für weitere Details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
